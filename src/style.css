@@ -1,0 +1,22 @@
+@import url("https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css");
+
+h1,
+p {
+  font-family: Lato;
+}
+
+.image-prev {
+  width: 25%;
+  min-width: 300px;
+  max-height: 80%;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.h1,
+h2,
+h3 {
+  text-align: center;
+}
